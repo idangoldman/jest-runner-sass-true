@@ -1,0 +1,19 @@
+{
+  "name": "jest-runner-sass-true",
+  "description": "SASS True Runner for Jest",
+  "author": "Idan Goldman",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idangoldman/jest-runner-sass-true.git"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "create-jest-runner": "^0.5.3",
+    "jest": "^24.9.0",
+    "node-sass": "^4.12.0",
+    "sass-true": "^5.0.0"
+  }
+}

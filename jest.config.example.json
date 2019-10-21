@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "runner": "jest-runner-sass-true",
+      "displayName": "SASS",
+      "moduleFileExtensions": ["scss"],
+      "testMatch": [
+        "<rootDir>/src/**/__tests__/*.scss"
+      ],
+      "testPathIgnorePatterns": [
+        "/node_modules/"
+      ],
+      "globals": {
+        "//": "Change to `true` to see the trace log",
+        "trace": false
+      }
+    }
+  ]
+}
